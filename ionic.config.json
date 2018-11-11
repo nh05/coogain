@@ -1,0 +1,7 @@
+{
+  "name": "coogain",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
